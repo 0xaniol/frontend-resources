@@ -7,6 +7,7 @@
 - Index (https://index.app)
 - Klaviyo (https://www.klaviyo.com)
 - Dimension (https://www.dimension.dev)
+- Wiza (https://wiza.co)
 
 
 ## Component libraries
