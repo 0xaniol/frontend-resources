@@ -23,3 +23,5 @@
 - Background snippets (https://bg.ibelick.com/)
 - Design ideas (https://uiverse.io)
 - Component ideas (https://ui.ibelick.com)
+- Mailing (https://postmarkapp.com)
+- Mailing (https://resend.com)
