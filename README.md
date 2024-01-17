@@ -1,13 +1,19 @@
 # FRONTEND RESOURCES (2024)
 
 ## Inspiration
-- Linear (https://linear.app/)
-- Musicfy (https://musicfy.lol/)
-- Dub (https://dub.co/)
+- Linear (https://linear.app)
+- Musicfy (https://musicfy.lol)
+- Dub (https://dub.co)
 
 
 ## Component libraries
-- Shadcn (https://ui.shadcn.com/)
+- Shadcn (https://ui.shadcn.com)
+- Daisy UI (https://daisyui.com)
+- Float UI (https://floatui.com)
+- Next UI (https://nextui.org)
+- Chakra UI (https://chakra-ui.com)
+- Magic UI (https://magicui.design) -> $$$
+- Aceternity UI (https://ui.aceternity.com) -> $$$
 
 
 ## Tools
