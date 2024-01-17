@@ -1,7 +1,7 @@
 # FRONTEND RESOURCES (2024)
 
 ## Inspiration
-- https://linear.app/
+- Linear (https://linear.app/)
 
 
 ## Component libraries
