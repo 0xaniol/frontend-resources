@@ -4,6 +4,7 @@
 - Linear (https://linear.app)
 - Musicfy (https://musicfy.lol)
 - Dub (https://dub.co)
+- Index (https://index.app)
 
 
 ## Component libraries
