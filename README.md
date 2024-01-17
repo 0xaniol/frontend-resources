@@ -6,6 +6,7 @@
 - Dub (https://dub.co)
 - Index (https://index.app)
 - Klaviyo (https://www.klaviyo.com)
+- Dimension (https://www.dimension.dev)
 
 
 ## Component libraries
