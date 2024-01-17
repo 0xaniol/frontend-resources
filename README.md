@@ -5,6 +5,7 @@
 - Musicfy (https://musicfy.lol)
 - Dub (https://dub.co)
 - Index (https://index.app)
+- Klaviyo (https://www.klaviyo.com)
 
 
 ## Component libraries
