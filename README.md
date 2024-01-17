@@ -12,6 +12,7 @@
 - Float UI (https://floatui.com)
 - Next UI (https://nextui.org)
 - Chakra UI (https://chakra-ui.com)
+- Ibelick components (https://ui.ibelick.com)
 - Magic UI (https://magicui.design) -> $$$
 - Aceternity UI (https://ui.aceternity.com) -> $$$
 
