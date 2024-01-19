@@ -26,3 +26,11 @@
 - Component ideas (https://ui.ibelick.com)
 - Mailing (https://postmarkapp.com)
 - Mailing (https://resend.com)
+
+## Forms
+- React Hook Form (https://www.react-hook-form.com/)
+- Formik (https://formik.org/)
+
+## Client validators
+- Zod (https://zod.dev)
+- Yup (https://github.com/jquense/yup)
