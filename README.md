@@ -34,6 +34,7 @@
 ## Client validators
 - Zod (https://zod.dev)
 - Yup (https://github.com/jquense/yup)
+- Vest (https://vestjs.dev)
 
 ## Charts
 - Recharts (https://recharts.org/en-US)
