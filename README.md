@@ -34,3 +34,10 @@
 ## Client validators
 - Zod (https://zod.dev)
 - Yup (https://github.com/jquense/yup)
+
+## Charts
+- Recharts (https://recharts.org/en-US)
+- Visx (https://airbnb.io/visx)
+- Victory (https://formidable.com/open-source/victory)
+- React Vis (https://uber.github.io/react-vis)
+- Nivo (https://nivo.rocks)
