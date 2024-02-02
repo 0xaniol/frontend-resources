@@ -18,6 +18,7 @@
 - Chakra UI (https://chakra-ui.com)
 - Magic UI (https://magicui.design) -> $$$
 - Aceternity UI (https://ui.aceternity.com) -> $$$
+- Saas UI (https://saas-ui.dev)
 
 
 ## Tools
