@@ -27,6 +27,7 @@
 - Component ideas (https://ui.ibelick.com)
 - Mailing (https://postmarkapp.com)
 - Mailing (https://resend.com)
+- Skeleton Creator (https://skeletonreact.com)
 
 ## Forms
 - React Hook Form (https://www.react-hook-form.com/)
