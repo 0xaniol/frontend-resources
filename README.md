@@ -45,3 +45,4 @@
 - Victory (https://formidable.com/open-source/victory)
 - React Vis (https://uber.github.io/react-vis)
 - Nivo (https://nivo.rocks)
+- Apache ECharts (https://echarts.apache.org/en/index.html)
